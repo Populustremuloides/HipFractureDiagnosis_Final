@@ -1,0 +1,5 @@
+/home/sethbw/Documents/HipFractureDiagnosis/DeepLearningRadiographs/TrainAugmentedTiny2
+/home/sethbw/Documents/HipFractureDiagnosis/DeepLearningRadiographs/ValidationTiny2
+
+
+
